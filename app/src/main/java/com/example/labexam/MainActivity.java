@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
 //                openURL('https://www.google.com/');
                 // Here we use an intent without a Chooser unlike the next example
-                // start
+                // start the
                 startActivity(intent);
 
             }
